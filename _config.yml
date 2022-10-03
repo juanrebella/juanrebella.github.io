@@ -2,18 +2,18 @@
 name: Juan I. Rebella
 email: Juan.Rebella@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, C#, AngularJS, ASP.NET, ASP.NET Core Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Computer Engineer in Manchester, United Kingdom (The Cooperative)"
+keywords: "Networking, Cloud computing, Web Development"
+skills: "ICT Cloud Specialist, based in Manchester"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/juanignaciorebellacouto
-  - title: github
+  - title: Linkedin
+    url: https://www.linkedin.com/in/juan-ignacio-rebella/
+  - title: Github
     url: https://github.com/juanrebella/
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/nachote88/
     
 # Google webmaster tools
