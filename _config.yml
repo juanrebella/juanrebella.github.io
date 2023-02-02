@@ -31,7 +31,7 @@ color:
   section-tout: eaf1f1
 
 
-
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
